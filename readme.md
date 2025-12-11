@@ -5,7 +5,7 @@
 ---
 ![Beginner level Lost](./screenshots/beg_lost.png)
 ---
-![Intermediate level Playing](./screenshots/intd_playing.png.png)
+![Intermediate level Playing](./screenshots/intd_playing.png)
 ---
 ![Intermediate level Lost](./screenshots/intd_lost.png)
 ---
